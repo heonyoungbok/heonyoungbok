@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hi 👋, I'm Heonyoung Bok
 
-Interested in Marketing and Data Analytics | South Korean 
-Feel free to reach out if you'd like to connect.
+* Interested in Marketing and Data Analytics | South Korean 
+* Feel free to reach out if you'd like to connect.
 
 ---
 
