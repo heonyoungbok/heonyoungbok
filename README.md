@@ -78,9 +78,9 @@
 
 | # | 프로젝트 | 기법 | 상태 |
 |:--:|---|---|:--:|
-| 01 | [Creamyview: K-Beauty 글로벌 리뷰 데이터 분석 프로젝트](https://github.com/heonyoungbok/Portfolio) | 크롤링 · 텍스트마이닝 · 토픽분류 · 로지스틱 회귀 · 머신러닝 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 02 | [보스턴 주택 가격 결정요인](https://github.com/heonyoungbok/저장소명-입력) | 선형회귀 | ![진행중](https://img.shields.io/badge/진행중-F59E0B?style=flat-square) |
-| 03 | [타이타닉 생존 예측](https://github.com/heonyoungbok/저장소명-입력) | 로지스틱 회귀 | ![진행중](https://img.shields.io/badge/진행중-F59E0B?style=flat-square) |
+| 01 | [Creamyview: K-Beauty 글로벌 리뷰 데이터 분석 프로젝트](https://github.com/heonyoungbok/CreamyView) | 크롤링 · 텍스트마이닝 · 토픽분류 · 로지스틱 회귀 · 머신러닝 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 02 | 보스턴 주택 가격 결정요인 | 선형회귀 | ![진행중](https://img.shields.io/badge/진행중-F59E0B?style=flat-square) |
+| 03 | 타이타닉 생존 예측 | 로지스틱 회귀 | ![진행중](https://img.shields.io/badge/진행중-F59E0B?style=flat-square) |
 | 04 | [Olist 마케팅 퍼널 분석](https://github.com/heonyoungbok/저장소명-입력) | 마케팅 분석 · EDA · 머신러닝 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 
 **공통 모듈** — [`helpers/`](https://github.com/heonyoungbok/저장소명-입력)
