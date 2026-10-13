@@ -8,7 +8,9 @@
 
 <br/>
 
-![전공](https://img.shields.io/badge/전공-불가리아학-0F4C81?style=for-the-badge&labelColor=FFFFFF)<br/>![이중전공](https://img.shields.io/badge/이중전공-광고·PR·브랜딩-0F4C81?style=for-the-badge&labelColor=FFFFFF)<br/>[![Email](https://img.shields.io/badge/heonyoungbok@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heonyoungbok@gmail.com)<br/>[![Email](https://img.shields.io/badge/gjsdud822@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:gjsdud822@naver.com)
+![전공](https://img.shields.io/badge/전공-불가리아학-0F4C81?style=for-the-badge&labelColor=555555)
+![이중전공](https://img.shields.io/badge/이중전공-광고·PR·브랜딩-0F4C81?style=for-the-badge&labelColor=555555)
+[![Email](https://img.shields.io/badge/heonyoungbok@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heonyoungbok@gmail.com)
 
 </div>
 
