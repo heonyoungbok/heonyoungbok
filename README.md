@@ -25,7 +25,7 @@
 |---|---|
 | **전공** | 그리스·불가리아학 (문학사) |
 | **이중전공** | 광고ㆍPRㆍ브랜딩 (커뮤니케이션학사) |
-| **Notion** | [복헌영_Itwill 라이브러리](https://app.notion.com/p/_Itwill-391ff4716ae78074bc57df6bbfd0df06?source=copy_link) <br/>[CreamyView 프로젝트](https://app.notion.com/p/Itwill-3d5a23a3eb3b804a8883fc81ac4367d9?source=copy_link)|
+| **Notion** | [복헌영_Itwill 머신러닝을 활용한 데이터 분석 부트캠프](https://app.notion.com/p/_Itwill-391ff4716ae78074bc57df6bbfd0df06?source=copy_link) <br/>[CreamyView 프로젝트](https://app.notion.com/p/Itwill-3d5a23a3eb3b804a8883fc81ac4367d9?source=copy_link)|
 | **이메일** | heonyoungbok@gmail.com <br/>gjsdud822@naver.com |
 
 ---
@@ -81,7 +81,6 @@
 | 01 | [Creamyview: K-Beauty 글로벌 리뷰 데이터 분석 프로젝트](https://github.com/heonyoungbok/CreamyView) | 크롤링 · 텍스트마이닝 · 토픽분류 · 로지스틱 회귀 · 머신러닝 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 02 | 보스턴 주택 가격 결정요인 | 선형회귀 | ![진행중](https://img.shields.io/badge/진행중-F59E0B?style=flat-square) |
 | 03 | 타이타닉 생존 예측 | 로지스틱 회귀 | ![진행중](https://img.shields.io/badge/진행중-F59E0B?style=flat-square) |
-| 04 | [Olist 마케팅 퍼널 분석](https://github.com/heonyoungbok/저장소명-입력) | 마케팅 분석 · EDA · 머신러닝 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 
 **공통 모듈** — [`helpers/`](https://github.com/heonyoungbok/저장소명-입력)
 품질 점검(`my_qtcheck`) · 시각화(`my_plot`) · 통계 검정(`my_stats`) · 전처리(`my_prep`) · 선형회귀(`my_ols`) · 로지스틱 회귀(`my_logit`) · 시계열(`my_ts`) · 군집분석(`my_cluster`) · 머신러닝(`my_ml`) · 이상치 점검(`my_outlier_clipper`) · 다중공선성 제거(`my_vif_selector`)
