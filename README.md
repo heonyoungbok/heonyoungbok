@@ -79,8 +79,7 @@
 | # | 프로젝트 | 기법 | 상태 |
 |:--:|---|---|:--:|
 | 01 | [Creamyview: K-Beauty 글로벌 리뷰 데이터 분석 프로젝트](https://github.com/heonyoungbok/CreamyView) | 크롤링 · 텍스트마이닝 · 토픽분류 · 로지스틱 회귀 · 머신러닝 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 02 | 보스턴 주택 가격 결정요인 | 선형회귀 | ![진행중](https://img.shields.io/badge/진행중-F59E0B?style=flat-square) |
-| 03 | 타이타닉 생존 예측 | 로지스틱 회귀 | ![진행중](https://img.shields.io/badge/진행중-F59E0B?style=flat-square) |
+| 02 | 타이타닉 생존 예측 | 로지스틱 회귀 · SHAP | ![진행중](https://img.shields.io/badge/진행중-F59E0B?style=flat-square) |
 
 **공통 모듈** — [`helpers/`](https://github.com/heonyoungbok/저장소명-입력)
 품질 점검(`my_qtcheck`) · 시각화(`my_plot`) · 통계 검정(`my_stats`) · 전처리(`my_prep`) · 선형회귀(`my_ols`) · 로지스틱 회귀(`my_logit`) · 시계열(`my_ts`) · 군집분석(`my_cluster`) · 머신러닝(`my_ml`) · 이상치 점검(`my_outlier_clipper`) · 다중공선성 제거(`my_vif_selector`)
