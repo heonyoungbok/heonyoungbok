@@ -1,0 +1,16 @@
+{
+  "PassengerId": "탑승객 식별자",
+  "Survived": "생존 여부 (0=사망, 1=생존)",
+  "Pclass": "객실 등급 (1=1등급, 2=2등급, 3=3등급)",
+  "Name": "이름",
+  "Sex": "성별",
+  "Age": "나이",
+  "SibSp": "동승한 형제·배우자 수",
+  "Parch": "동승한 부모·자녀 수",
+  "Ticket": "티켓 번호",
+  "Fare": "요금",
+  "Cabin": "선실 번호",
+  "Embarked": "탑승 항구 (C=Cherbourg, Q=Queenstown, S=Southampton)",
+  "FamilySize": "동승 가족 수 (SibSp + Parch + 본인)",
+  "Title": "이름에서 추출한 호칭 (Mr/Mrs/Miss/Master/Officer)"
+}
